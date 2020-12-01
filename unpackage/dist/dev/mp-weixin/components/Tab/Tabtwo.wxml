@@ -1,0 +1,1 @@
+<view class="tab_bar data-v-6e5a24e8"><view class="Tab_profile data-v-6e5a24e8"><text data-event-opts="{{[['tap',[['profile',['$event']]]]]}}" bindtap="__e" class="data-v-6e5a24e8">我的会议</text></view><view class="Tab_history data-v-6e5a24e8"><text data-event-opts="{{[['tap',[['history',['$event']]]]]}}" bindtap="__e" class="data-v-6e5a24e8">历史会议</text></view></view>

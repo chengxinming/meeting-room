@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "filemark": "/components/newfile_mark/newfile_mark"
+  }
+}

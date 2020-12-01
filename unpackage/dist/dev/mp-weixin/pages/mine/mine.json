@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的预约会议",
+  "usingComponents": {
+    "tabtwo": "/components/Tab/Tabtwo",
+    "newmine": "/components/new_mine/new_mine"
+  }
+}

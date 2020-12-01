@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/make/make",
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/profile/profile",
+    "pages/history/history"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "学院预约会议室",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "style": {
+      "app-plus": {
+        "titleNView": false
+      }
+    }
+  },
+  "usingComponents": {}
+}

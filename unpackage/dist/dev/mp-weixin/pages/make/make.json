@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "预约会议",
+  "usingComponents": {
+    "newmark": "/components/new_mark/new_mark",
+    "filemarks": "/components/file_marks/file_marks"
+  }
+}
