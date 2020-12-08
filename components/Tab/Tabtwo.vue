@@ -34,7 +34,7 @@
 <style scoped>
 	.tab_bar{
 		position: absolute;
-		top: 0px;	
+		top:44px;	
 		width: 100%;
 		height: 35px;
 		position: fixed;

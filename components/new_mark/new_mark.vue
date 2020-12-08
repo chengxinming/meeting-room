@@ -26,7 +26,14 @@
 		height: 100%;
 	}
 	.tet{
-		font-size: 20px;
-		 font-weight: bold;
+		margin-left: 15px;
+		font-size: 15px;
+		font-weight: 600;
+	}
+	.tst{
+		font-size: 14px;
+		width: 90%;
+		margin-left: 15px;
+		color: #4f4f4f;
 	}
 </style>

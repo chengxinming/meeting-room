@@ -2,7 +2,6 @@
 	<view class="content">
 		<Newmark></Newmark>
 		<Filemarks></Filemarks>
-		<text>mark</text>
 	</view>
 </template>
 

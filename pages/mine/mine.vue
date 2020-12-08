@@ -1,17 +1,11 @@
 <template>
-	<view class="aaa">
-		<Tabtwo></Tabtwo>
-		<view class="Text_mine">
-			<Newmine></Newmine>
-		</view>
-		
-		
+	<view class="content">
+		<Tabtwo class=".Text_mine"></Tabtwo>
 	</view>
 </template>
 
 <script>
 	import Tabtwo from "@/components/Tab/Tabtwo.vue"
-	import Newmine from "@/components/new_mine/new_mine.vue"
 	export default {
 		data() {
 			return {
@@ -25,13 +19,13 @@
 	
 		},
 		components:{
-			Tabtwo,Newmine
+			Tabtwo
 		}
 	}
 </script>
 
 <style>
 	.Text_mine{
-		margin-top: 50px;
+		margin-top: 100px;
 	}
 </style>
